@@ -1,0 +1,3 @@
+/home/cstar/IntuitiveColonoscopy/spline/build/CMakeFiles/Spline.dir
+/home/cstar/IntuitiveColonoscopy/spline/build/CMakeFiles/edit_cache.dir
+/home/cstar/IntuitiveColonoscopy/spline/build/CMakeFiles/rebuild_cache.dir
